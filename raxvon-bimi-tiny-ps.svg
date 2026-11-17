@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.2"
+     baseProfile="tiny-ps"
+     width="512" height="512" viewBox="0 0 512 512">
+  <title>RAXVON</title>
+  <desc>RAXVON logo: a stylized black letter R with a red accent on a yellow square background.</desc>
+  <rect x="0" y="0" width="512" height="512" fill="#F6D51B"/>
+  <path fill="#000000" d="
+    M 104,124
+    L 316,124
+    C 367,124 402,159 402,207
+    C 402,253 369,286 321,286
+    L 286,286
+    L 382,410
+    L 306,410
+    L 203,278
+    L 326,278
+    C 345,278 358,265 358,247
+    C 358,230 345,217 326,217
+    L 151,217
+    Z"/>
+  <path fill="#E30613" d="
+    M 112,260
+    L 216,260
+    L 263,324
+    L 159,324
+    Z"/>
+</svg>
